@@ -1,0 +1,92 @@
+.container{
+    margin-bottom: 80px;
+    margin-top: 50px;
+}
+
+.bar{
+    padding-left: 50px;
+    padding-right:50px;
+}
+.green-bg{
+    background-color: rgb(222, 236, 223);
+    padding: 50px;
+    
+}
+.btn-sign-in{
+    border-radius: 20px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    margin: 10px;
+}
+.ctr a{
+text-align: center;
+color: black;
+font-size: 20px;
+}
+#orange{
+    color: orangered;
+}
+.green{
+    color: green;
+}
+h1{
+    font-size: 60px;
+}
+.card-box{
+    border: none;
+    
+    border-radius: 10px;
+    background-color: rgb(222, 236, 223);
+    padding: 30px;
+}
+.card-box img{
+    width: 30%;
+}
+.card-box:hover{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+
+.c-box{
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 30px;
+}
+.c-box img{
+    width: 100%;
+}
+.symbol img{
+    width: 10%;
+}
+.footer{
+    margin-left: 20px;
+}
+.test{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 20px;
+    
+}
+.man img{
+    width: 30%;
+    margin-left: 100px;
+}
+.para
+{
+    margin-top: 20px;
+   
+}
+li{
+    list-style: none;
+}
+.black-bg{
+    background-color: rgb(3, 3, 24);
+    color: white;
+    padding: 40px;
+}
+.fot{
+    text-align: center;
+}
